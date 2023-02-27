@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkxlabller_menual=self.webpackChunkxlabller_menual||[]).push([[7972],{3190:e=>{e.exports=JSON.parse('{"permalink":"/X-Labeller-Menual/blog/tags/facebook","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

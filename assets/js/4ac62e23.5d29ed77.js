@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkxlabller_menual=self.webpackChunkxlabller_menual||[]).push([[4057],{6805:l=>{l.exports=JSON.parse('{"label":"docusaurus","permalink":"/X-Labeller-Menual/blog/tags/docusaurus","allTagsPath":"/X-Labeller-Menual/blog/tags","count":4}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkxlabller_menual=self.webpackChunkxlabller_menual||[]).push([[5110],{108:l=>{l.exports=JSON.parse('{"label":"hola","permalink":"/X-Labeller-Menual/blog/tags/hola","allTagsPath":"/X-Labeller-Menual/blog/tags","count":1}')}}]);
